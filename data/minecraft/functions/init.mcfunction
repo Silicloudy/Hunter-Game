@@ -1,0 +1,1 @@
+schedule function minecraft:initialization 1s
